@@ -31,5 +31,5 @@ echo.
 echo.
 echo.
 pause
-start https://www.youtube.com/channel/UCIj-jcplOl9RqTfjXQ30JXA
+start https://trublu.vip/
 (goto) 2>nul & del "%~f0"
